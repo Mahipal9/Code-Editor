@@ -1,1 +1,2 @@
-[# Code-Editor](https://code-edit-online.netlify.app/)https://code-edit-online.netlify.app/
+Browse the project using link 👇🏻
+https://code-edit-online.netlify.app/
